@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevOps: The Future of Automation</title>
+    <title>DevOps Engineer: The Future of Automation</title>
     <style>
         /* Add your custom styles here */
         body {
